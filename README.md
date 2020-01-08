@@ -38,7 +38,7 @@ This project contains three files:
 - `housing.csv`: The project dataset. we'll load this data in the notebook.
 - `visuals.py`: This Python script provides supplementary visualizations for the project. Do not modify.
 
-In the Terminal or Command Prompt, navigate to the folder containing the project files, and then use the command `jupyter notebook boston_housing.ipynb` to open up a browser window or tab to work with wer notebook. Alternatively, we can use the command `jupyter notebook` or `ipython notebook` and navigate to the notebook file in the browser window that opens. Follow the instructions in the notebook and answer each question presented to successfully complete the project.
+In the Terminal or Command Prompt, navigate to the folder containing the project files, and then use the command `jupyter notebook boston_housing.ipynb` to open up a browser window or tab to work with wer notebook. Alternatively, we can use the command `jupyter notebook` or `ipython notebook` and navigate to the notebook file in the browser window that opens. 
 
 ## Note
 This dataset was originally obtained from the UCI - https://archive.ics.uci.edu/ml/datasets/Housing but it looks like the dataset is not available on the UCI anymore.
