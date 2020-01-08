@@ -29,3 +29,18 @@ This project uses the following software and Python libraries:
 we will also need to have software installed to run and execute a [Jupyter Notebook](http://ipython.org/notebook.html).
 
 If we do not have Python installed yet, it is highly recommended that we install the [Anaconda](http://continuum.io/downloads) distribution of Python, which already has the above packages and more included. 
+
+## Starting the Project
+
+For this assignment, we can find the `boston_housing` folder containing the necessary project files on the [Machine Learning projects GitHub](https://github.com/udacity/machine-learning), under the `projects` folder. we may download all of the files for projects we'll use in this Nanodegree program directly from this repo. Please make sure that we use the most recent version of project files when completing a project!
+
+This project contains three files:
+
+- `boston_housing.ipynb`: This is the main file where we will be performing wer work on the project.
+- `housing.csv`: The project dataset. we'll load this data in the notebook.
+- `visuals.py`: This Python script provides supplementary visualizations for the project. Do not modify.
+
+In the Terminal or Command Prompt, navigate to the folder containing the project files, and then use the command `jupyter notebook boston_housing.ipynb` to open up a browser window or tab to work with wer notebook. Alternatively, we can use the command `jupyter notebook` or `ipython notebook` and navigate to the notebook file in the browser window that opens. Follow the instructions in the notebook and answer each question presented to successfully complete the project.
+
+## Note
+This dataset was originally obtained from the UCI - https://archive.ics.uci.edu/ml/datasets/Housing but it looks like the dataset is not available on the UCI anymore.
