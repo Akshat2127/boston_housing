@@ -32,8 +32,6 @@ If we do not have Python installed yet, it is highly recommended that we install
 
 ## Starting the Project
 
-For this assignment, we can find the `boston_housing` folder containing the necessary project files on the [Machine Learning projects GitHub](https://github.com/udacity/machine-learning), under the `projects` folder. we may download all of the files for projects we'll use in this Nanodegree program directly from this repo. Please make sure that we use the most recent version of project files when completing a project!
-
 This project contains three files:
 
 - `boston_housing.ipynb`: This is the main file where we will be performing wer work on the project.
